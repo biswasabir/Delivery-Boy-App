@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1727709902",
+    "project_id": "zerodeliverypartner",
+    "storage_bucket": "zerodeliverypartner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1727709902:android:38e20f1723ed1a3bb2469f",
+        "android_client_info": {
+          "package_name": "com.zero.delivery.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1727709902-bpqqp0pve7ub0vi5usfr3uqnkuljf21v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJIhuXCu1A_hNNg7VpzQYbracV-JFTIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1727709902-bpqqp0pve7ub0vi5usfr3uqnkuljf21v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
